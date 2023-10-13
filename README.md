@@ -1,4 +1,4 @@
-# Finite Element Method Implementation for Structural Analysis**
+# Finite Element Method Implementation for Structural Analysis
 
 ## Project Overview:
 This repository contains the implementation of a Finite Element Method (FEM) code in MATLAB for solving a 2D linear elastic structural problem. The project aims to familiarize users with the steps involved in commercial software packages like Abaqus and Ansys, offering a cost-effective alternative for simple structural problems.
